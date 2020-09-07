@@ -1,0 +1,25 @@
+! 2020-09-06 https://www.facebook.com
+www.facebook.com##._sg2._3ubp
+www.facebook.com###u_jsonp_28_f
+www.facebook.com##._41y5._4-u3
+www.facebook.com###stream_pagelet
+www.facebook.com###u_jsonp_28_0
+www.facebook.com###sideNav > div
+www.facebook.com###homepage_panel_pagelet > ._1-ia > ._4-u8._2tyk._1-ib._4-u2
+www.facebook.com##._4-u8._2ph_._19ah._4-u2
+www.facebook.com###js_1u0
+www.facebook.com###u_0_t
+www.facebook.com##._1vp5
+www.facebook.com###findFriendsNav
+www.facebook.com###creation_hub_entrypoint
+www.facebook.com###u_0_c > ._2s25
+www.facebook.com##div._2s24._cy6:nth-of-type(3) > div._4kny:nth-of-type(1)
+www.facebook.com##div._cy6:nth-of-type(1) > div._4kny:nth-of-type(1)
+
+! 2020-09-07 https://www.facebook.com
+www.facebook.com###js_18 > .fcg.fwn.fsm
+www.facebook.com###js_18 > div:nth-of-type(2)
+www.facebook.com###js_s > ._2j7c._i-o > ._3eny > ._7r84 > ._ikh.clearfix
+www.facebook.com###js_s
+www.facebook.com##._4-u3._4cw._5xv3._4zoz
+www.facebook.com###js_2g
